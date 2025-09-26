@@ -13,9 +13,10 @@ export const constant = {
       author: "- Ellen Johnson Sirleaf",
     },
     mission: {
-      header:"Our Mission",
-      description:"Our Mission is to empower Gen Z women in tech worldwide to believe in their dreams—whether that’s building a product, earning a degree, landing a job, or finding community—and to show them those dreams are not just possible, but achievable.",
-      button: "ButtonText"
+      header: "Our Mission",
+      description:
+        "Our Mission is to empower Gen Z women in tech worldwide to believe in their dreams—whether that’s building a product, earning a degree, landing a job, or finding community—and to show them those dreams are not just possible, but achievable.",
+      button: "ButtonText",
     },
     whatWeDo: {
       header: "What do we do?",
@@ -33,7 +34,8 @@ export const constant = {
       membersNum: "Members on Discord",
       verifiedMem: "Verified members",
       reach: "Total Reach",
-      description: "With over 12,000 members and counting, our Discord server is a vibrant space where Gen Z women in tech can connect, support, and uplift each other. Whether you're celebrating a win, seeking advice, or just hanging out for a virtual movie night, this community is all about belonging. \n We know what it\'s like to feel alone in a male-dominated space, which is why we’ve created a place where you can find mentorship, share experiences, and build lifelong connections. It’s not just about tech—it’s about empowerment, support, and growth. Here, you\'re never alone."
+      description:
+        "With over 12,000 members and counting, our Discord server is a vibrant space where Gen Z women in tech can connect, support, and uplift each other. Whether you're celebrating a win, seeking advice, or just hanging out for a virtual movie night, this community is all about belonging. \n We know what it's like to feel alone in a male-dominated space, which is why we've created a place where you can find mentorship, share experiences, and build lifelong connections. It's not just about tech—it's about empowerment, support, and growth. Here, you're never alone.",
     },
   },
 

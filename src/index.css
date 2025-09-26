@@ -18,4 +18,5 @@
 body {
   background-color: var(--color-brand-black);
   font-family: var(--font-roboto-slab);
+  color: var(--color-brand-white);
 }

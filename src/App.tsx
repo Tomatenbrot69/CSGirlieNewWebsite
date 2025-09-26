@@ -1,5 +1,5 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import { Home } from "./pages/Home";
+import Home from "./pages/Home";
 import { Blog } from "./pages/Blog";
 import { NotFound } from "./pages/NotFound";
 import { Discord } from "./pages/Discord";
